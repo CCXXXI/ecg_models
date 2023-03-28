@@ -1,2538 +1,2538 @@
 [
   {
-    "position": 131,
+    "millisecondsSinceStart": 545,
     "label": 10
   },
   {
-    "position": 354,
+    "millisecondsSinceStart": 1475,
     "label": 0
   },
   {
-    "position": 568,
+    "millisecondsSinceStart": 2366,
     "label": 0
   },
   {
-    "position": 789,
+    "millisecondsSinceStart": 3287,
     "label": 0
   },
   {
-    "position": 1009,
+    "millisecondsSinceStart": 4204,
     "label": 0
   },
   {
-    "position": 1221,
+    "millisecondsSinceStart": 5087,
     "label": 0
   },
   {
-    "position": 1445,
+    "millisecondsSinceStart": 6020,
     "label": 0
   },
   {
-    "position": 1672,
+    "millisecondsSinceStart": 6966,
     "label": 0
   },
   {
-    "position": 1891,
+    "millisecondsSinceStart": 7879,
     "label": 0
   },
   {
-    "position": 2121,
+    "millisecondsSinceStart": 8837,
     "label": 0
   },
   {
-    "position": 2345,
+    "millisecondsSinceStart": 9770,
     "label": 0
   },
   {
-    "position": 2561,
+    "millisecondsSinceStart": 10670,
     "label": 0
   },
   {
-    "position": 2791,
+    "millisecondsSinceStart": 11629,
     "label": 0
   },
   {
-    "position": 3020,
+    "millisecondsSinceStart": 12583,
     "label": 0
   },
   {
-    "position": 3244,
+    "millisecondsSinceStart": 13516,
     "label": 0
   },
   {
-    "position": 3474,
+    "millisecondsSinceStart": 14475,
     "label": 0
   },
   {
-    "position": 3701,
+    "millisecondsSinceStart": 15420,
     "label": 0
   },
   {
-    "position": 3918,
+    "millisecondsSinceStart": 16325,
     "label": 0
   },
   {
-    "position": 4137,
+    "millisecondsSinceStart": 17237,
     "label": 0
   },
   {
-    "position": 4352,
+    "millisecondsSinceStart": 18133,
     "label": 0
   },
   {
-    "position": 4560,
+    "millisecondsSinceStart": 19000,
     "label": 0
   },
   {
-    "position": 4772,
+    "millisecondsSinceStart": 19883,
     "label": 0
   },
   {
-    "position": 4983,
+    "millisecondsSinceStart": 20762,
     "label": 0
   },
   {
-    "position": 5188,
+    "millisecondsSinceStart": 21616,
     "label": 0
   },
   {
-    "position": 5401,
+    "millisecondsSinceStart": 22504,
     "label": 0
   },
   {
-    "position": 5621,
+    "millisecondsSinceStart": 23420,
     "label": 0
   },
   {
-    "position": 5830,
+    "millisecondsSinceStart": 24291,
     "label": 0
   },
   {
-    "position": 6045,
+    "millisecondsSinceStart": 25187,
     "label": 0
   },
   {
-    "position": 6269,
+    "millisecondsSinceStart": 26120,
     "label": 0
   },
   {
-    "position": 6496,
+    "millisecondsSinceStart": 27066,
     "label": 0
   },
   {
-    "position": 6715,
+    "millisecondsSinceStart": 27979,
     "label": 0
   },
   {
-    "position": 6940,
+    "millisecondsSinceStart": 28916,
     "label": 0
   },
   {
-    "position": 7160,
+    "millisecondsSinceStart": 29833,
     "label": 0
   },
   {
-    "position": 7370,
+    "millisecondsSinceStart": 30708,
     "label": 0
   },
   {
-    "position": 7581,
+    "millisecondsSinceStart": 31587,
     "label": 0
   },
   {
-    "position": 7794,
+    "millisecondsSinceStart": 32475,
     "label": 0
   },
   {
-    "position": 8003,
+    "millisecondsSinceStart": 33345,
     "label": 0
   },
   {
-    "position": 8215,
+    "millisecondsSinceStart": 34229,
     "label": 0
   },
   {
-    "position": 8427,
+    "millisecondsSinceStart": 35112,
     "label": 0
   },
   {
-    "position": 8631,
+    "millisecondsSinceStart": 35962,
     "label": 0
   },
   {
-    "position": 8841,
+    "millisecondsSinceStart": 36837,
     "label": 0
   },
   {
-    "position": 9058,
+    "millisecondsSinceStart": 37741,
     "label": 0
   },
   {
-    "position": 9270,
+    "millisecondsSinceStart": 38625,
     "label": 0
   },
   {
-    "position": 9491,
+    "millisecondsSinceStart": 39545,
     "label": 0
   },
   {
-    "position": 9713,
+    "millisecondsSinceStart": 40470,
     "label": 0
   },
   {
-    "position": 9926,
+    "millisecondsSinceStart": 41358,
     "label": 0
   },
   {
-    "position": 10147,
+    "millisecondsSinceStart": 42279,
     "label": 0
   },
   {
-    "position": 10375,
+    "millisecondsSinceStart": 43229,
     "label": 0
   },
   {
-    "position": 10602,
+    "millisecondsSinceStart": 44175,
     "label": 0
   },
   {
-    "position": 10830,
+    "millisecondsSinceStart": 45125,
     "label": 0
   },
   {
-    "position": 11064,
+    "millisecondsSinceStart": 46100,
     "label": 0
   },
   {
-    "position": 11300,
+    "millisecondsSinceStart": 47083,
     "label": 0
   },
   {
-    "position": 11533,
+    "millisecondsSinceStart": 48054,
     "label": 0
   },
   {
-    "position": 11761,
+    "millisecondsSinceStart": 49004,
     "label": 0
   },
   {
-    "position": 11997,
+    "millisecondsSinceStart": 49987,
     "label": 0
   },
   {
-    "position": 12236,
+    "millisecondsSinceStart": 50983,
     "label": 0
   },
   {
-    "position": 12459,
+    "millisecondsSinceStart": 51912,
     "label": 0
   },
   {
-    "position": 12692,
+    "millisecondsSinceStart": 52883,
     "label": 0
   },
   {
-    "position": 12927,
+    "millisecondsSinceStart": 53862,
     "label": 0
   },
   {
-    "position": 13157,
+    "millisecondsSinceStart": 54820,
     "label": 0
   },
   {
-    "position": 13400,
+    "millisecondsSinceStart": 55833,
     "label": 0
   },
   {
-    "position": 13644,
+    "millisecondsSinceStart": 56850,
     "label": 0
   },
   {
-    "position": 13877,
+    "millisecondsSinceStart": 57820,
     "label": 0
   },
   {
-    "position": 14121,
+    "millisecondsSinceStart": 58837,
     "label": 0
   },
   {
-    "position": 14366,
+    "millisecondsSinceStart": 59858,
     "label": 1
   },
   {
-    "position": 14597,
+    "millisecondsSinceStart": 60820,
     "label": 0
   },
   {
-    "position": 14827,
+    "millisecondsSinceStart": 61779,
     "label": 0
   },
   {
-    "position": 15051,
+    "millisecondsSinceStart": 62712,
     "label": 0
   },
   {
-    "position": 15279,
+    "millisecondsSinceStart": 63662,
     "label": 0
   },
   {
-    "position": 15511,
+    "millisecondsSinceStart": 64629,
     "label": 0
   },
   {
-    "position": 15737,
+    "millisecondsSinceStart": 65570,
     "label": 0
   },
   {
-    "position": 15946,
+    "millisecondsSinceStart": 66441,
     "label": 0
   },
   {
-    "position": 16164,
+    "millisecondsSinceStart": 67350,
     "label": 0
   },
   {
-    "position": 16381,
+    "millisecondsSinceStart": 68254,
     "label": 0
   },
   {
-    "position": 16595,
+    "millisecondsSinceStart": 69145,
     "label": 0
   },
   {
-    "position": 16818,
+    "millisecondsSinceStart": 70075,
     "label": 0
   },
   {
-    "position": 17043,
+    "millisecondsSinceStart": 71012,
     "label": 0
   },
   {
-    "position": 17260,
+    "millisecondsSinceStart": 71916,
     "label": 0
   },
   {
-    "position": 17486,
+    "millisecondsSinceStart": 72858,
     "label": 0
   },
   {
-    "position": 17702,
+    "millisecondsSinceStart": 73758,
     "label": 0
   },
   {
-    "position": 17916,
+    "millisecondsSinceStart": 74650,
     "label": 0
   },
   {
-    "position": 18117,
+    "millisecondsSinceStart": 75487,
     "label": 0
   },
   {
-    "position": 18307,
+    "millisecondsSinceStart": 76279,
     "label": 0
   },
   {
-    "position": 18501,
+    "millisecondsSinceStart": 77087,
     "label": 0
   },
   {
-    "position": 18697,
+    "millisecondsSinceStart": 77904,
     "label": 0
   },
   {
-    "position": 18903,
+    "millisecondsSinceStart": 78762,
     "label": 0
   },
   {
-    "position": 19125,
+    "millisecondsSinceStart": 79687,
     "label": 0
   },
   {
-    "position": 19333,
+    "millisecondsSinceStart": 80554,
     "label": 0
   },
   {
-    "position": 19540,
+    "millisecondsSinceStart": 81416,
     "label": 0
   },
   {
-    "position": 19750,
+    "millisecondsSinceStart": 82291,
     "label": 0
   },
   {
-    "position": 19956,
+    "millisecondsSinceStart": 83150,
     "label": 0
   },
   {
-    "position": 20163,
+    "millisecondsSinceStart": 84012,
     "label": 0
   },
   {
-    "position": 20376,
+    "millisecondsSinceStart": 84900,
     "label": 0
   },
   {
-    "position": 20589,
+    "millisecondsSinceStart": 85787,
     "label": 0
   },
   {
-    "position": 20807,
+    "millisecondsSinceStart": 86695,
     "label": 0
   },
   {
-    "position": 21030,
+    "millisecondsSinceStart": 87625,
     "label": 0
   },
   {
-    "position": 21245,
+    "millisecondsSinceStart": 88520,
     "label": 0
   },
   {
-    "position": 21460,
+    "millisecondsSinceStart": 89416,
     "label": 0
   },
   {
-    "position": 21677,
+    "millisecondsSinceStart": 90320,
     "label": 0
   },
   {
-    "position": 21886,
+    "millisecondsSinceStart": 91191,
     "label": 0
   },
   {
-    "position": 22095,
+    "millisecondsSinceStart": 92062,
     "label": 0
   },
   {
-    "position": 22309,
+    "millisecondsSinceStart": 92954,
     "label": 0
   },
   {
-    "position": 22519,
+    "millisecondsSinceStart": 93829,
     "label": 0
   },
   {
-    "position": 22733,
+    "millisecondsSinceStart": 94720,
     "label": 0
   },
   {
-    "position": 22957,
+    "millisecondsSinceStart": 95654,
     "label": 0
   },
   {
-    "position": 23172,
+    "millisecondsSinceStart": 96550,
     "label": 0
   },
   {
-    "position": 23390,
+    "millisecondsSinceStart": 97458,
     "label": 0
   },
   {
-    "position": 23611,
+    "millisecondsSinceStart": 98379,
     "label": 0
   },
   {
-    "position": 23827,
+    "millisecondsSinceStart": 99279,
     "label": 0
   },
   {
-    "position": 24040,
+    "millisecondsSinceStart": 100166,
     "label": 0
   },
   {
-    "position": 24257,
+    "millisecondsSinceStart": 101070,
     "label": 0
   },
   {
-    "position": 24472,
+    "millisecondsSinceStart": 101966,
     "label": 0
   },
   {
-    "position": 24685,
+    "millisecondsSinceStart": 102854,
     "label": 0
   },
   {
-    "position": 24907,
+    "millisecondsSinceStart": 103779,
     "label": 0
   },
   {
-    "position": 25131,
+    "millisecondsSinceStart": 104712,
     "label": 0
   },
   {
-    "position": 25347,
+    "millisecondsSinceStart": 105612,
     "label": 0
   },
   {
-    "position": 25573,
+    "millisecondsSinceStart": 106554,
     "label": 0
   },
   {
-    "position": 25797,
+    "millisecondsSinceStart": 107487,
     "label": 0
   },
   {
-    "position": 26013,
+    "millisecondsSinceStart": 108387,
     "label": 0
   },
   {
-    "position": 26233,
+    "millisecondsSinceStart": 109304,
     "label": 0
   },
   {
-    "position": 26457,
+    "millisecondsSinceStart": 110237,
     "label": 0
   },
   {
-    "position": 26671,
+    "millisecondsSinceStart": 111129,
     "label": 0
   },
   {
-    "position": 26888,
+    "millisecondsSinceStart": 112033,
     "label": 0
   },
   {
-    "position": 27105,
+    "millisecondsSinceStart": 112937,
     "label": 0
   },
   {
-    "position": 27311,
+    "millisecondsSinceStart": 113795,
     "label": 0
   },
   {
-    "position": 27506,
+    "millisecondsSinceStart": 114608,
     "label": 0
   },
   {
-    "position": 27683,
+    "millisecondsSinceStart": 115345,
     "label": 0
   },
   {
-    "position": 27874,
+    "millisecondsSinceStart": 116141,
     "label": 1
   },
   {
-    "position": 28102,
+    "millisecondsSinceStart": 117091,
     "label": 0
   },
   {
-    "position": 28342,
+    "millisecondsSinceStart": 118091,
     "label": 0
   },
   {
-    "position": 28573,
+    "millisecondsSinceStart": 119054,
     "label": 0
   },
   {
-    "position": 28800,
+    "millisecondsSinceStart": 120000,
     "label": 0
   },
   {
-    "position": 29033,
+    "millisecondsSinceStart": 120970,
     "label": 0
   },
   {
-    "position": 29266,
+    "millisecondsSinceStart": 121941,
     "label": 0
   },
   {
-    "position": 29494,
+    "millisecondsSinceStart": 122891,
     "label": 0
   },
   {
-    "position": 29721,
+    "millisecondsSinceStart": 123837,
     "label": 0
   },
   {
-    "position": 29941,
+    "millisecondsSinceStart": 124754,
     "label": 0
   },
   {
-    "position": 30161,
+    "millisecondsSinceStart": 125670,
     "label": 0
   },
   {
-    "position": 30377,
+    "millisecondsSinceStart": 126570,
     "label": 0
   },
   {
-    "position": 30584,
+    "millisecondsSinceStart": 127433,
     "label": 0
   },
   {
-    "position": 30787,
+    "millisecondsSinceStart": 128279,
     "label": 0
   },
   {
-    "position": 30993,
+    "millisecondsSinceStart": 129137,
     "label": 0
   },
   {
-    "position": 31191,
+    "millisecondsSinceStart": 129962,
     "label": 0
   },
   {
-    "position": 31398,
+    "millisecondsSinceStart": 130825,
     "label": 0
   },
   {
-    "position": 31613,
+    "millisecondsSinceStart": 131720,
     "label": 0
   },
   {
-    "position": 31822,
+    "millisecondsSinceStart": 132591,
     "label": 0
   },
   {
-    "position": 32044,
+    "millisecondsSinceStart": 133516,
     "label": 0
   },
   {
-    "position": 32269,
+    "millisecondsSinceStart": 134454,
     "label": 0
   },
   {
-    "position": 32484,
+    "millisecondsSinceStart": 135350,
     "label": 1
   },
   {
-    "position": 32708,
+    "millisecondsSinceStart": 136283,
     "label": 0
   },
   {
-    "position": 32932,
+    "millisecondsSinceStart": 137216,
     "label": 0
   },
   {
-    "position": 33148,
+    "millisecondsSinceStart": 138116,
     "label": 1
   },
   {
-    "position": 33371,
+    "millisecondsSinceStart": 139045,
     "label": 0
   },
   {
-    "position": 33589,
+    "millisecondsSinceStart": 139954,
     "label": 0
   },
   {
-    "position": 33805,
+    "millisecondsSinceStart": 140854,
     "label": 0
   },
   {
-    "position": 34029,
+    "millisecondsSinceStart": 141787,
     "label": 0
   },
   {
-    "position": 34252,
+    "millisecondsSinceStart": 142716,
     "label": 0
   },
   {
-    "position": 34468,
+    "millisecondsSinceStart": 143616,
     "label": 1
   },
   {
-    "position": 34692,
+    "millisecondsSinceStart": 144550,
     "label": 0
   },
   {
-    "position": 34919,
+    "millisecondsSinceStart": 145495,
     "label": 0
   },
   {
-    "position": 35135,
+    "millisecondsSinceStart": 146395,
     "label": 0
   },
   {
-    "position": 35357,
+    "millisecondsSinceStart": 147320,
     "label": 0
   },
   {
-    "position": 35577,
+    "millisecondsSinceStart": 148237,
     "label": 0
   },
   {
-    "position": 35780,
+    "millisecondsSinceStart": 149083,
     "label": 1
   },
   {
-    "position": 36003,
+    "millisecondsSinceStart": 150012,
     "label": 0
   },
   {
-    "position": 36222,
+    "millisecondsSinceStart": 150925,
     "label": 0
   },
   {
-    "position": 36429,
+    "millisecondsSinceStart": 151787,
     "label": 0
   },
   {
-    "position": 36641,
+    "millisecondsSinceStart": 152670,
     "label": 0
   },
   {
-    "position": 36850,
+    "millisecondsSinceStart": 153541,
     "label": 0
   },
   {
-    "position": 37048,
+    "millisecondsSinceStart": 154366,
     "label": 0
   },
   {
-    "position": 37253,
+    "millisecondsSinceStart": 155220,
     "label": 0
   },
   {
-    "position": 37462,
+    "millisecondsSinceStart": 156091,
     "label": 0
   },
   {
-    "position": 37668,
+    "millisecondsSinceStart": 156950,
     "label": 0
   },
   {
-    "position": 37888,
+    "millisecondsSinceStart": 157866,
     "label": 0
   },
   {
-    "position": 38113,
+    "millisecondsSinceStart": 158804,
     "label": 0
   },
   {
-    "position": 38328,
+    "millisecondsSinceStart": 159700,
     "label": 0
   },
   {
-    "position": 38549,
+    "millisecondsSinceStart": 160620,
     "label": 0
   },
   {
-    "position": 38769,
+    "millisecondsSinceStart": 161537,
     "label": 0
   },
   {
-    "position": 38977,
+    "millisecondsSinceStart": 162404,
     "label": 0
   },
   {
-    "position": 39191,
+    "millisecondsSinceStart": 163295,
     "label": 0
   },
   {
-    "position": 39401,
+    "millisecondsSinceStart": 164170,
     "label": 0
   },
   {
-    "position": 39601,
+    "millisecondsSinceStart": 165004,
     "label": 0
   },
   {
-    "position": 39801,
+    "millisecondsSinceStart": 165837,
     "label": 0
   },
   {
-    "position": 40005,
+    "millisecondsSinceStart": 166687,
     "label": 0
   },
   {
-    "position": 40205,
+    "millisecondsSinceStart": 167520,
     "label": 0
   },
   {
-    "position": 40412,
+    "millisecondsSinceStart": 168383,
     "label": 0
   },
   {
-    "position": 40625,
+    "millisecondsSinceStart": 169270,
     "label": 0
   },
   {
-    "position": 40835,
+    "millisecondsSinceStart": 170145,
     "label": 0
   },
   {
-    "position": 41044,
+    "millisecondsSinceStart": 171016,
     "label": 0
   },
   {
-    "position": 41253,
+    "millisecondsSinceStart": 171887,
     "label": 0
   },
   {
-    "position": 41456,
+    "millisecondsSinceStart": 172733,
     "label": 0
   },
   {
-    "position": 41660,
+    "millisecondsSinceStart": 173583,
     "label": 0
   },
   {
-    "position": 41867,
+    "millisecondsSinceStart": 174445,
     "label": 0
   },
   {
-    "position": 42075,
+    "millisecondsSinceStart": 175312,
     "label": 0
   },
   {
-    "position": 42285,
+    "millisecondsSinceStart": 176187,
     "label": 0
   },
   {
-    "position": 42502,
+    "millisecondsSinceStart": 177091,
     "label": 0
   },
   {
-    "position": 42716,
+    "millisecondsSinceStart": 177983,
     "label": 0
   },
   {
-    "position": 42929,
+    "millisecondsSinceStart": 178870,
     "label": 0
   },
   {
-    "position": 43143,
+    "millisecondsSinceStart": 179762,
     "label": 0
   },
   {
-    "position": 43354,
+    "millisecondsSinceStart": 180641,
     "label": 0
   },
   {
-    "position": 43566,
+    "millisecondsSinceStart": 181525,
     "label": 0
   },
   {
-    "position": 43784,
+    "millisecondsSinceStart": 182433,
     "label": 0
   },
   {
-    "position": 43998,
+    "millisecondsSinceStart": 183325,
     "label": 0
   },
   {
-    "position": 44217,
+    "millisecondsSinceStart": 184237,
     "label": 0
   },
   {
-    "position": 44441,
+    "millisecondsSinceStart": 185170,
     "label": 0
   },
   {
-    "position": 44645,
+    "millisecondsSinceStart": 186020,
     "label": 1
   },
   {
-    "position": 44877,
+    "millisecondsSinceStart": 186987,
     "label": 0
   },
   {
-    "position": 45101,
+    "millisecondsSinceStart": 187920,
     "label": 0
   },
   {
-    "position": 45305,
+    "millisecondsSinceStart": 188770,
     "label": 0
   },
   {
-    "position": 45523,
+    "millisecondsSinceStart": 189679,
     "label": 0
   },
   {
-    "position": 45745,
+    "millisecondsSinceStart": 190604,
     "label": 0
   },
   {
-    "position": 45980,
+    "millisecondsSinceStart": 191583,
     "label": 0
   },
   {
-    "position": 46208,
+    "millisecondsSinceStart": 192533,
     "label": 0
   },
   {
-    "position": 46431,
+    "millisecondsSinceStart": 193462,
     "label": 0
   },
   {
-    "position": 46656,
+    "millisecondsSinceStart": 194400,
     "label": 0
   },
   {
-    "position": 46890,
+    "millisecondsSinceStart": 195375,
     "label": 0
   },
   {
-    "position": 47125,
+    "millisecondsSinceStart": 196354,
     "label": 0
   },
   {
-    "position": 47357,
+    "millisecondsSinceStart": 197320,
     "label": 0
   },
   {
-    "position": 47567,
+    "millisecondsSinceStart": 198195,
     "label": 1
   },
   {
-    "position": 47790,
+    "millisecondsSinceStart": 199125,
     "label": 0
   },
   {
-    "position": 48004,
+    "millisecondsSinceStart": 200016,
     "label": 0
   },
   {
-    "position": 48225,
+    "millisecondsSinceStart": 200937,
     "label": 0
   },
   {
-    "position": 48451,
+    "millisecondsSinceStart": 201879,
     "label": 0
   },
   {
-    "position": 48667,
+    "millisecondsSinceStart": 202779,
     "label": 0
   },
   {
-    "position": 48873,
+    "millisecondsSinceStart": 203637,
     "label": 0
   },
   {
-    "position": 49079,
+    "millisecondsSinceStart": 204495,
     "label": 0
   },
   {
-    "position": 49289,
+    "millisecondsSinceStart": 205370,
     "label": 0
   },
   {
-    "position": 49501,
+    "millisecondsSinceStart": 206254,
     "label": 0
   },
   {
-    "position": 49708,
+    "millisecondsSinceStart": 207116,
     "label": 0
   },
   {
-    "position": 49905,
+    "millisecondsSinceStart": 207937,
     "label": 0
   },
   {
-    "position": 50098,
+    "millisecondsSinceStart": 208741,
     "label": 0
   },
   {
-    "position": 50295,
+    "millisecondsSinceStart": 209562,
     "label": 0
   },
   {
-    "position": 50503,
+    "millisecondsSinceStart": 210429,
     "label": 0
   },
   {
-    "position": 50718,
+    "millisecondsSinceStart": 211325,
     "label": 0
   },
   {
-    "position": 50929,
+    "millisecondsSinceStart": 212204,
     "label": 0
   },
   {
-    "position": 51133,
+    "millisecondsSinceStart": 213054,
     "label": 0
   },
   {
-    "position": 51339,
+    "millisecondsSinceStart": 213912,
     "label": 0
   },
   {
-    "position": 51553,
+    "millisecondsSinceStart": 214804,
     "label": 0
   },
   {
-    "position": 51769,
+    "millisecondsSinceStart": 215704,
     "label": 0
   },
   {
-    "position": 51980,
+    "millisecondsSinceStart": 216583,
     "label": 0
   },
   {
-    "position": 52185,
+    "millisecondsSinceStart": 217437,
     "label": 0
   },
   {
-    "position": 52383,
+    "millisecondsSinceStart": 218262,
     "label": 0
   },
   {
-    "position": 52584,
+    "millisecondsSinceStart": 219100,
     "label": 0
   },
   {
-    "position": 52787,
+    "millisecondsSinceStart": 219945,
     "label": 0
   },
   {
-    "position": 52992,
+    "millisecondsSinceStart": 220800,
     "label": 0
   },
   {
-    "position": 53190,
+    "millisecondsSinceStart": 221625,
     "label": 0
   },
   {
-    "position": 53385,
+    "millisecondsSinceStart": 222437,
     "label": 0
   },
   {
-    "position": 53585,
+    "millisecondsSinceStart": 223270,
     "label": 0
   },
   {
-    "position": 53789,
+    "millisecondsSinceStart": 224120,
     "label": 0
   },
   {
-    "position": 53996,
+    "millisecondsSinceStart": 224983,
     "label": 0
   },
   {
-    "position": 54197,
+    "millisecondsSinceStart": 225820,
     "label": 0
   },
   {
-    "position": 54394,
+    "millisecondsSinceStart": 226641,
     "label": 0
   },
   {
-    "position": 54601,
+    "millisecondsSinceStart": 227504,
     "label": 0
   },
   {
-    "position": 54821,
+    "millisecondsSinceStart": 228420,
     "label": 0
   },
   {
-    "position": 55043,
+    "millisecondsSinceStart": 229345,
     "label": 0
   },
   {
-    "position": 55255,
+    "millisecondsSinceStart": 230229,
     "label": 0
   },
   {
-    "position": 55468,
+    "millisecondsSinceStart": 231116,
     "label": 0
   },
   {
-    "position": 55689,
+    "millisecondsSinceStart": 232037,
     "label": 0
   },
   {
-    "position": 55913,
+    "millisecondsSinceStart": 232970,
     "label": 0
   },
   {
-    "position": 56133,
+    "millisecondsSinceStart": 233887,
     "label": 0
   },
   {
-    "position": 56342,
+    "millisecondsSinceStart": 234758,
     "label": 1
   },
   {
-    "position": 56564,
+    "millisecondsSinceStart": 235683,
     "label": 0
   },
   {
-    "position": 56785,
+    "millisecondsSinceStart": 236604,
     "label": 0
   },
   {
-    "position": 57004,
+    "millisecondsSinceStart": 237516,
     "label": 0
   },
   {
-    "position": 57203,
+    "millisecondsSinceStart": 238345,
     "label": 6
   },
   {
-    "position": 57441,
+    "millisecondsSinceStart": 239337,
     "label": 0
   },
   {
-    "position": 57661,
+    "millisecondsSinceStart": 240254,
     "label": 0
   },
   {
-    "position": 57880,
+    "millisecondsSinceStart": 241166,
     "label": 0
   },
   {
-    "position": 58086,
+    "millisecondsSinceStart": 242025,
     "label": 0
   },
   {
-    "position": 58298,
+    "millisecondsSinceStart": 242908,
     "label": 0
   },
   {
-    "position": 58511,
+    "millisecondsSinceStart": 243795,
     "label": 0
   },
   {
-    "position": 58721,
+    "millisecondsSinceStart": 244670,
     "label": 0
   },
   {
-    "position": 58924,
+    "millisecondsSinceStart": 245516,
     "label": 0
   },
   {
-    "position": 59135,
+    "millisecondsSinceStart": 246395,
     "label": 0
   },
   {
-    "position": 59356,
+    "millisecondsSinceStart": 247316,
     "label": 0
   },
   {
-    "position": 59577,
+    "millisecondsSinceStart": 248237,
     "label": 0
   },
   {
-    "position": 59793,
+    "millisecondsSinceStart": 249137,
     "label": 0
   },
   {
-    "position": 60019,
+    "millisecondsSinceStart": 250079,
     "label": 0
   },
   {
-    "position": 60245,
+    "millisecondsSinceStart": 251020,
     "label": 0
   },
   {
-    "position": 60469,
+    "millisecondsSinceStart": 251954,
     "label": 0
   },
   {
-    "position": 60684,
+    "millisecondsSinceStart": 252850,
     "label": 0
   },
   {
-    "position": 60900,
+    "millisecondsSinceStart": 253750,
     "label": 0
   },
   {
-    "position": 61113,
+    "millisecondsSinceStart": 254637,
     "label": 0
   },
   {
-    "position": 61325,
+    "millisecondsSinceStart": 255520,
     "label": 0
   },
   {
-    "position": 61529,
+    "millisecondsSinceStart": 256370,
     "label": 0
   },
   {
-    "position": 61739,
+    "millisecondsSinceStart": 257245,
     "label": 0
   },
   {
-    "position": 61949,
+    "millisecondsSinceStart": 258120,
     "label": 0
   },
   {
-    "position": 62151,
+    "millisecondsSinceStart": 258962,
     "label": 0
   },
   {
-    "position": 62335,
+    "millisecondsSinceStart": 259729,
     "label": 0
   },
   {
-    "position": 62519,
+    "millisecondsSinceStart": 260495,
     "label": 0
   },
   {
-    "position": 62714,
+    "millisecondsSinceStart": 261308,
     "label": 0
   },
   {
-    "position": 62923,
+    "millisecondsSinceStart": 262179,
     "label": 0
   },
   {
-    "position": 63140,
+    "millisecondsSinceStart": 263083,
     "label": 0
   },
   {
-    "position": 63350,
+    "millisecondsSinceStart": 263958,
     "label": 0
   },
   {
-    "position": 63565,
+    "millisecondsSinceStart": 264854,
     "label": 0
   },
   {
-    "position": 63785,
+    "millisecondsSinceStart": 265770,
     "label": 0
   },
   {
-    "position": 63993,
+    "millisecondsSinceStart": 266637,
     "label": 0
   },
   {
-    "position": 64205,
+    "millisecondsSinceStart": 267520,
     "label": 0
   },
   {
-    "position": 64417,
+    "millisecondsSinceStart": 268404,
     "label": 0
   },
   {
-    "position": 64618,
+    "millisecondsSinceStart": 269241,
     "label": 0
   },
   {
-    "position": 64828,
+    "millisecondsSinceStart": 270116,
     "label": 0
   },
   {
-    "position": 65041,
+    "millisecondsSinceStart": 271004,
     "label": 0
   },
   {
-    "position": 65252,
+    "millisecondsSinceStart": 271883,
     "label": 0
   },
   {
-    "position": 65470,
+    "millisecondsSinceStart": 272791,
     "label": 0
   },
   {
-    "position": 65692,
+    "millisecondsSinceStart": 273716,
     "label": 0
   },
   {
-    "position": 65901,
+    "millisecondsSinceStart": 274587,
     "label": 0
   },
   {
-    "position": 66108,
+    "millisecondsSinceStart": 275450,
     "label": 0
   },
   {
-    "position": 66317,
+    "millisecondsSinceStart": 276320,
     "label": 0
   },
   {
-    "position": 66544,
+    "millisecondsSinceStart": 277266,
     "label": 0
   },
   {
-    "position": 66773,
+    "millisecondsSinceStart": 278220,
     "label": 0
   },
   {
-    "position": 66989,
+    "millisecondsSinceStart": 279120,
     "label": 0
   },
   {
-    "position": 67210,
+    "millisecondsSinceStart": 280041,
     "label": 0
   },
   {
-    "position": 67430,
+    "millisecondsSinceStart": 280958,
     "label": 0
   },
   {
-    "position": 67643,
+    "millisecondsSinceStart": 281845,
     "label": 0
   },
   {
-    "position": 67862,
+    "millisecondsSinceStart": 282758,
     "label": 0
   },
   {
-    "position": 68086,
+    "millisecondsSinceStart": 283691,
     "label": 0
   },
   {
-    "position": 68297,
+    "millisecondsSinceStart": 284570,
     "label": 0
   },
   {
-    "position": 68514,
+    "millisecondsSinceStart": 285475,
     "label": 0
   },
   {
-    "position": 68732,
+    "millisecondsSinceStart": 286383,
     "label": 0
   },
   {
-    "position": 68943,
+    "millisecondsSinceStart": 287262,
     "label": 0
   },
   {
-    "position": 69160,
+    "millisecondsSinceStart": 288166,
     "label": 0
   },
   {
-    "position": 69377,
+    "millisecondsSinceStart": 289070,
     "label": 0
   },
   {
-    "position": 69585,
+    "millisecondsSinceStart": 289937,
     "label": 0
   },
   {
-    "position": 69801,
+    "millisecondsSinceStart": 290837,
     "label": 0
   },
   {
-    "position": 70018,
+    "millisecondsSinceStart": 291741,
     "label": 0
   },
   {
-    "position": 70232,
+    "millisecondsSinceStart": 292633,
     "label": 0
   },
   {
-    "position": 70455,
+    "millisecondsSinceStart": 293562,
     "label": 0
   },
   {
-    "position": 70677,
+    "millisecondsSinceStart": 294487,
     "label": 0
   },
   {
-    "position": 70889,
+    "millisecondsSinceStart": 295370,
     "label": 0
   },
   {
-    "position": 71109,
+    "millisecondsSinceStart": 296287,
     "label": 0
   },
   {
-    "position": 71337,
+    "millisecondsSinceStart": 297237,
     "label": 0
   },
   {
-    "position": 71557,
+    "millisecondsSinceStart": 298154,
     "label": 0
   },
   {
-    "position": 71780,
+    "millisecondsSinceStart": 299083,
     "label": 0
   },
   {
-    "position": 72005,
+    "millisecondsSinceStart": 300020,
     "label": 0
   },
   {
-    "position": 72214,
+    "millisecondsSinceStart": 300891,
     "label": 0
   },
   {
-    "position": 72440,
+    "millisecondsSinceStart": 301833,
     "label": 0
   },
   {
-    "position": 72664,
+    "millisecondsSinceStart": 302766,
     "label": 0
   },
   {
-    "position": 72872,
+    "millisecondsSinceStart": 303633,
     "label": 0
   },
   {
-    "position": 73096,
+    "millisecondsSinceStart": 304566,
     "label": 0
   },
   {
-    "position": 73309,
+    "millisecondsSinceStart": 305454,
     "label": 0
   },
   {
-    "position": 73514,
+    "millisecondsSinceStart": 306308,
     "label": 0
   },
   {
-    "position": 73724,
+    "millisecondsSinceStart": 307183,
     "label": 0
   },
   {
-    "position": 73942,
+    "millisecondsSinceStart": 308091,
     "label": 0
   },
   {
-    "position": 74154,
+    "millisecondsSinceStart": 308975,
     "label": 0
   },
   {
-    "position": 74349,
+    "millisecondsSinceStart": 309787,
     "label": 0
   },
   {
-    "position": 74536,
+    "millisecondsSinceStart": 310566,
     "label": 0
   },
   {
-    "position": 74724,
+    "millisecondsSinceStart": 311350,
     "label": 0
   },
   {
-    "position": 74919,
+    "millisecondsSinceStart": 312162,
     "label": 0
   },
   {
-    "position": 75123,
+    "millisecondsSinceStart": 313012,
     "label": 0
   },
   {
-    "position": 75339,
+    "millisecondsSinceStart": 313912,
     "label": 0
   },
   {
-    "position": 75561,
+    "millisecondsSinceStart": 314837,
     "label": 0
   },
   {
-    "position": 75782,
+    "millisecondsSinceStart": 315758,
     "label": 0
   },
   {
-    "position": 75991,
+    "millisecondsSinceStart": 316629,
     "label": 0
   },
   {
-    "position": 76205,
+    "millisecondsSinceStart": 317520,
     "label": 0
   },
   {
-    "position": 76421,
+    "millisecondsSinceStart": 318420,
     "label": 0
   },
   {
-    "position": 76629,
+    "millisecondsSinceStart": 319287,
     "label": 0
   },
   {
-    "position": 76837,
+    "millisecondsSinceStart": 320154,
     "label": 0
   },
   {
-    "position": 77045,
+    "millisecondsSinceStart": 321020,
     "label": 0
   },
   {
-    "position": 77248,
+    "millisecondsSinceStart": 321866,
     "label": 0
   },
   {
-    "position": 77447,
+    "millisecondsSinceStart": 322695,
     "label": 0
   },
   {
-    "position": 77649,
+    "millisecondsSinceStart": 323537,
     "label": 0
   },
   {
-    "position": 77852,
+    "millisecondsSinceStart": 324383,
     "label": 0
   },
   {
-    "position": 78049,
+    "millisecondsSinceStart": 325204,
     "label": 0
   },
   {
-    "position": 78258,
+    "millisecondsSinceStart": 326075,
     "label": 0
   },
   {
-    "position": 78471,
+    "millisecondsSinceStart": 326962,
     "label": 0
   },
   {
-    "position": 78681,
+    "millisecondsSinceStart": 327837,
     "label": 0
   },
   {
-    "position": 78898,
+    "millisecondsSinceStart": 328741,
     "label": 0
   },
   {
-    "position": 79119,
+    "millisecondsSinceStart": 329662,
     "label": 0
   },
   {
-    "position": 79323,
+    "millisecondsSinceStart": 330512,
     "label": 0
   },
   {
-    "position": 79543,
+    "millisecondsSinceStart": 331429,
     "label": 0
   },
   {
-    "position": 79760,
+    "millisecondsSinceStart": 332333,
     "label": 0
   },
   {
-    "position": 79964,
+    "millisecondsSinceStart": 333183,
     "label": 0
   },
   {
-    "position": 80185,
+    "millisecondsSinceStart": 334104,
     "label": 0
   },
   {
-    "position": 80390,
+    "millisecondsSinceStart": 334958,
     "label": 0
   },
   {
-    "position": 80604,
+    "millisecondsSinceStart": 335850,
     "label": 0
   },
   {
-    "position": 80815,
+    "millisecondsSinceStart": 336729,
     "label": 0
   },
   {
-    "position": 81037,
+    "millisecondsSinceStart": 337654,
     "label": 0
   },
   {
-    "position": 81253,
+    "millisecondsSinceStart": 338554,
     "label": 1
   },
   {
-    "position": 81478,
+    "millisecondsSinceStart": 339491,
     "label": 0
   },
   {
-    "position": 81707,
+    "millisecondsSinceStart": 340445,
     "label": 0
   },
   {
-    "position": 81909,
+    "millisecondsSinceStart": 341287,
     "label": 0
   },
   {
-    "position": 82131,
+    "millisecondsSinceStart": 342212,
     "label": 0
   },
   {
-    "position": 82341,
+    "millisecondsSinceStart": 343087,
     "label": 0
   },
   {
-    "position": 82545,
+    "millisecondsSinceStart": 343937,
     "label": 0
   },
   {
-    "position": 82754,
+    "millisecondsSinceStart": 344808,
     "label": 0
   },
   {
-    "position": 82965,
+    "millisecondsSinceStart": 345687,
     "label": 0
   },
   {
-    "position": 83168,
+    "millisecondsSinceStart": 346533,
     "label": 0
   },
   {
-    "position": 83377,
+    "millisecondsSinceStart": 347404,
     "label": 0
   },
   {
-    "position": 83592,
+    "millisecondsSinceStart": 348300,
     "label": 0
   },
   {
-    "position": 83800,
+    "millisecondsSinceStart": 349166,
     "label": 0
   },
   {
-    "position": 84017,
+    "millisecondsSinceStart": 350070,
     "label": 0
   },
   {
-    "position": 84237,
+    "millisecondsSinceStart": 350987,
     "label": 0
   },
   {
-    "position": 84441,
+    "millisecondsSinceStart": 351837,
     "label": 0
   },
   {
-    "position": 84657,
+    "millisecondsSinceStart": 352737,
     "label": 0
   },
   {
-    "position": 84867,
+    "millisecondsSinceStart": 353612,
     "label": 0
   },
   {
-    "position": 85077,
+    "millisecondsSinceStart": 354487,
     "label": 0
   },
   {
-    "position": 85289,
+    "millisecondsSinceStart": 355370,
     "label": 0
   },
   {
-    "position": 85508,
+    "millisecondsSinceStart": 356283,
     "label": 0
   },
   {
-    "position": 85715,
+    "millisecondsSinceStart": 357145,
     "label": 0
   },
   {
-    "position": 85919,
+    "millisecondsSinceStart": 357995,
     "label": 0
   },
   {
-    "position": 86118,
+    "millisecondsSinceStart": 358825,
     "label": 0
   },
   {
-    "position": 86327,
+    "millisecondsSinceStart": 359695,
     "label": 0
   },
   {
-    "position": 86546,
+    "millisecondsSinceStart": 360608,
     "label": 0
   },
   {
-    "position": 86769,
+    "millisecondsSinceStart": 361537,
     "label": 0
   },
   {
-    "position": 86981,
+    "millisecondsSinceStart": 362420,
     "label": 0
   },
   {
-    "position": 87205,
+    "millisecondsSinceStart": 363354,
     "label": 0
   },
   {
-    "position": 87428,
+    "millisecondsSinceStart": 364283,
     "label": 0
   },
   {
-    "position": 87645,
+    "millisecondsSinceStart": 365187,
     "label": 0
   },
   {
-    "position": 87856,
+    "millisecondsSinceStart": 366066,
     "label": 0
   },
   {
-    "position": 88072,
+    "millisecondsSinceStart": 366966,
     "label": 0
   },
   {
-    "position": 88285,
+    "millisecondsSinceStart": 367854,
     "label": 0
   },
   {
-    "position": 88498,
+    "millisecondsSinceStart": 368741,
     "label": 0
   },
   {
-    "position": 88701,
+    "millisecondsSinceStart": 369587,
     "label": 0
   },
   {
-    "position": 88911,
+    "millisecondsSinceStart": 370462,
     "label": 0
   },
   {
-    "position": 89124,
+    "millisecondsSinceStart": 371350,
     "label": 0
   },
   {
-    "position": 89336,
+    "millisecondsSinceStart": 372233,
     "label": 0
   },
   {
-    "position": 89549,
+    "millisecondsSinceStart": 373120,
     "label": 0
   },
   {
-    "position": 89765,
+    "millisecondsSinceStart": 374020,
     "label": 0
   },
   {
-    "position": 89978,
+    "millisecondsSinceStart": 374908,
     "label": 0
   },
   {
-    "position": 90181,
+    "millisecondsSinceStart": 375754,
     "label": 0
   },
   {
-    "position": 90391,
+    "millisecondsSinceStart": 376629,
     "label": 0
   },
   {
-    "position": 90612,
+    "millisecondsSinceStart": 377550,
     "label": 0
   },
   {
-    "position": 90829,
+    "millisecondsSinceStart": 378454,
     "label": 0
   },
   {
-    "position": 91050,
+    "millisecondsSinceStart": 379375,
     "label": 0
   },
   {
-    "position": 91261,
+    "millisecondsSinceStart": 380254,
     "label": 0
   },
   {
-    "position": 91466,
+    "millisecondsSinceStart": 381108,
     "label": 0
   },
   {
-    "position": 91667,
+    "millisecondsSinceStart": 381945,
     "label": 0
   },
   {
-    "position": 91875,
+    "millisecondsSinceStart": 382812,
     "label": 0
   },
   {
-    "position": 92097,
+    "millisecondsSinceStart": 383737,
     "label": 0
   },
   {
-    "position": 92325,
+    "millisecondsSinceStart": 384687,
     "label": 0
   },
   {
-    "position": 92543,
+    "millisecondsSinceStart": 385595,
     "label": 0
   },
   {
-    "position": 92757,
+    "millisecondsSinceStart": 386487,
     "label": 0
   },
   {
-    "position": 92989,
+    "millisecondsSinceStart": 387454,
     "label": 0
   },
   {
-    "position": 93224,
+    "millisecondsSinceStart": 388433,
     "label": 0
   },
   {
-    "position": 93445,
+    "millisecondsSinceStart": 389354,
     "label": 0
   },
   {
-    "position": 93663,
+    "millisecondsSinceStart": 390262,
     "label": 0
   },
   {
-    "position": 93881,
+    "millisecondsSinceStart": 391170,
     "label": 0
   },
   {
-    "position": 94102,
+    "millisecondsSinceStart": 392091,
     "label": 0
   },
   {
-    "position": 94326,
+    "millisecondsSinceStart": 393025,
     "label": 0
   },
   {
-    "position": 94544,
+    "millisecondsSinceStart": 393933,
     "label": 0
   },
   {
-    "position": 94749,
+    "millisecondsSinceStart": 394787,
     "label": 0
   },
   {
-    "position": 94951,
+    "millisecondsSinceStart": 395629,
     "label": 0
   },
   {
-    "position": 95165,
+    "millisecondsSinceStart": 396520,
     "label": 0
   },
   {
-    "position": 95388,
+    "millisecondsSinceStart": 397450,
     "label": 0
   },
   {
-    "position": 95604,
+    "millisecondsSinceStart": 398350,
     "label": 0
   },
   {
-    "position": 95805,
+    "millisecondsSinceStart": 399187,
     "label": 0
   },
   {
-    "position": 96002,
+    "millisecondsSinceStart": 400008,
     "label": 0
   },
   {
-    "position": 96209,
+    "millisecondsSinceStart": 400870,
     "label": 0
   },
   {
-    "position": 96436,
+    "millisecondsSinceStart": 401816,
     "label": 0
   },
   {
-    "position": 96669,
+    "millisecondsSinceStart": 402787,
     "label": 0
   },
   {
-    "position": 96892,
+    "millisecondsSinceStart": 403716,
     "label": 0
   },
   {
-    "position": 97103,
+    "millisecondsSinceStart": 404595,
     "label": 0
   },
   {
-    "position": 97320,
+    "millisecondsSinceStart": 405500,
     "label": 0
   },
   {
-    "position": 97542,
+    "millisecondsSinceStart": 406425,
     "label": 0
   },
   {
-    "position": 97766,
+    "millisecondsSinceStart": 407358,
     "label": 0
   },
   {
-    "position": 97986,
+    "millisecondsSinceStart": 408275,
     "label": 0
   },
   {
-    "position": 98205,
+    "millisecondsSinceStart": 409187,
     "label": 0
   },
   {
-    "position": 98431,
+    "millisecondsSinceStart": 410129,
     "label": 0
   },
   {
-    "position": 98656,
+    "millisecondsSinceStart": 411066,
     "label": 0
   },
   {
-    "position": 98877,
+    "millisecondsSinceStart": 411987,
     "label": 0
   },
   {
-    "position": 99094,
+    "millisecondsSinceStart": 412891,
     "label": 1
   },
   {
-    "position": 99321,
+    "millisecondsSinceStart": 413837,
     "label": 0
   },
   {
-    "position": 99551,
+    "millisecondsSinceStart": 414795,
     "label": 0
   },
   {
-    "position": 99775,
+    "millisecondsSinceStart": 415729,
     "label": 0
   },
   {
-    "position": 99983,
+    "millisecondsSinceStart": 416595,
     "label": 1
   },
   {
-    "position": 100222,
+    "millisecondsSinceStart": 417591,
     "label": 0
   },
   {
-    "position": 100450,
+    "millisecondsSinceStart": 418541,
     "label": 0
   },
   {
-    "position": 100671,
+    "millisecondsSinceStart": 419462,
     "label": 0
   },
   {
-    "position": 100883,
+    "millisecondsSinceStart": 420345,
     "label": 0
   },
   {
-    "position": 101101,
+    "millisecondsSinceStart": 421254,
     "label": 0
   },
   {
-    "position": 101321,
+    "millisecondsSinceStart": 422170,
     "label": 0
   },
   {
-    "position": 101539,
+    "millisecondsSinceStart": 423079,
     "label": 0
   },
   {
-    "position": 101756,
+    "millisecondsSinceStart": 423983,
     "label": 0
   },
   {
-    "position": 101980,
+    "millisecondsSinceStart": 424916,
     "label": 0
   },
   {
-    "position": 102205,
+    "millisecondsSinceStart": 425854,
     "label": 0
   },
   {
-    "position": 102429,
+    "millisecondsSinceStart": 426787,
     "label": 0
   },
   {
-    "position": 102653,
+    "millisecondsSinceStart": 427720,
     "label": 0
   },
   {
-    "position": 102877,
+    "millisecondsSinceStart": 428654,
     "label": 0
   },
   {
-    "position": 103097,
+    "millisecondsSinceStart": 429570,
     "label": 0
   },
   {
-    "position": 103312,
+    "millisecondsSinceStart": 430466,
     "label": 0
   },
   {
-    "position": 103531,
+    "millisecondsSinceStart": 431379,
     "label": 0
   },
   {
-    "position": 103753,
+    "millisecondsSinceStart": 432304,
     "label": 0
   },
   {
-    "position": 103970,
+    "millisecondsSinceStart": 433208,
     "label": 0
   },
   {
-    "position": 104174,
+    "millisecondsSinceStart": 434058,
     "label": 0
   },
   {
-    "position": 104380,
+    "millisecondsSinceStart": 434916,
     "label": 0
   },
   {
-    "position": 104601,
+    "millisecondsSinceStart": 435837,
     "label": 0
   },
   {
-    "position": 104839,
+    "millisecondsSinceStart": 436829,
     "label": 0
   },
   {
-    "position": 105068,
+    "millisecondsSinceStart": 437783,
     "label": 0
   },
   {
-    "position": 105300,
+    "millisecondsSinceStart": 438750,
     "label": 0
   },
   {
-    "position": 105541,
+    "millisecondsSinceStart": 439754,
     "label": 0
   },
   {
-    "position": 105752,
+    "millisecondsSinceStart": 440633,
     "label": 6
   },
   {
-    "position": 106004,
+    "millisecondsSinceStart": 441683,
     "label": 0
   },
   {
-    "position": 106221,
+    "millisecondsSinceStart": 442587,
     "label": 0
   },
   {
-    "position": 106439,
+    "millisecondsSinceStart": 443495,
     "label": 0
   },
   {
-    "position": 106649,
+    "millisecondsSinceStart": 444370,
     "label": 0
   },
   {
-    "position": 106851,
+    "millisecondsSinceStart": 445212,
     "label": 0
   },
   {
-    "position": 107055,
+    "millisecondsSinceStart": 446062,
     "label": 0
   },
   {
-    "position": 107263,
+    "millisecondsSinceStart": 446929,
     "label": 0
   },
   {
-    "position": 107469,
+    "millisecondsSinceStart": 447787,
     "label": 0
   },
   {
-    "position": 107681,
+    "millisecondsSinceStart": 448670,
     "label": 0
   },
   {
-    "position": 107897,
+    "millisecondsSinceStart": 449570,
     "label": 0
   },
   {
-    "position": 108102,
+    "millisecondsSinceStart": 450425,
     "label": 0
   },
   {
-    "position": 108309,
+    "millisecondsSinceStart": 451287,
     "label": 0
   },
   {
-    "position": 108519,
+    "millisecondsSinceStart": 452162,
     "label": 0
   },
   {
-    "position": 108728,
+    "millisecondsSinceStart": 453033,
     "label": 0
   },
   {
-    "position": 108930,
+    "millisecondsSinceStart": 453875,
     "label": 0
   },
   {
-    "position": 109139,
+    "millisecondsSinceStart": 454745,
     "label": 0
   },
   {
-    "position": 109353,
+    "millisecondsSinceStart": 455637,
     "label": 0
   },
   {
-    "position": 109562,
+    "millisecondsSinceStart": 456508,
     "label": 0
   },
   {
-    "position": 109765,
+    "millisecondsSinceStart": 457354,
     "label": 0
   },
   {
-    "position": 109977,
+    "millisecondsSinceStart": 458237,
     "label": 0
   },
   {
-    "position": 110192,
+    "millisecondsSinceStart": 459133,
     "label": 0
   },
   {
-    "position": 110397,
+    "millisecondsSinceStart": 459987,
     "label": 0
   },
   {
-    "position": 110599,
+    "millisecondsSinceStart": 460829,
     "label": 0
   },
   {
-    "position": 110805,
+    "millisecondsSinceStart": 461687,
     "label": 0
   },
   {
-    "position": 111012,
+    "millisecondsSinceStart": 462550,
     "label": 0
   },
   {
-    "position": 111209,
+    "millisecondsSinceStart": 463370,
     "label": 0
   },
   {
-    "position": 111413,
+    "millisecondsSinceStart": 464220,
     "label": 0
   },
   {
-    "position": 111621,
+    "millisecondsSinceStart": 465087,
     "label": 0
   },
   {
-    "position": 111822,
+    "millisecondsSinceStart": 465925,
     "label": 0
   },
   {
-    "position": 112028,
+    "millisecondsSinceStart": 466783,
     "label": 0
   },
   {
-    "position": 112236,
+    "millisecondsSinceStart": 467650,
     "label": 0
   },
   {
-    "position": 112442,
+    "millisecondsSinceStart": 468508,
     "label": 0
   },
   {
-    "position": 112640,
+    "millisecondsSinceStart": 469333,
     "label": 0
   },
   {
-    "position": 112845,
+    "millisecondsSinceStart": 470187,
     "label": 0
   },
   {
-    "position": 113056,
+    "millisecondsSinceStart": 471066,
     "label": 0
   },
   {
-    "position": 113253,
+    "millisecondsSinceStart": 471887,
     "label": 0
   },
   {
-    "position": 113449,
+    "millisecondsSinceStart": 472704,
     "label": 0
   },
   {
-    "position": 113633,
+    "millisecondsSinceStart": 473470,
     "label": 0
   },
   {
-    "position": 113822,
+    "millisecondsSinceStart": 474258,
     "label": 0
   },
   {
-    "position": 114014,
+    "millisecondsSinceStart": 475058,
     "label": 0
   },
   {
-    "position": 114207,
+    "millisecondsSinceStart": 475862,
     "label": 0
   },
   {
-    "position": 114401,
+    "millisecondsSinceStart": 476670,
     "label": 0
   },
   {
-    "position": 114590,
+    "millisecondsSinceStart": 477458,
     "label": 0
   },
   {
-    "position": 114777,
+    "millisecondsSinceStart": 478237,
     "label": 0
   },
   {
-    "position": 114969,
+    "millisecondsSinceStart": 479037,
     "label": 0
   },
   {
-    "position": 115161,
+    "millisecondsSinceStart": 479837,
     "label": 0
   },
   {
-    "position": 115361,
+    "millisecondsSinceStart": 480670,
     "label": 0
   },
   {
-    "position": 115573,
+    "millisecondsSinceStart": 481554,
     "label": 0
   },
   {
-    "position": 115779,
+    "millisecondsSinceStart": 482412,
     "label": 0
   },
   {
-    "position": 115989,
+    "millisecondsSinceStart": 483287,
     "label": 0
   },
   {
-    "position": 116203,
+    "millisecondsSinceStart": 484179,
     "label": 0
   },
   {
-    "position": 116412,
+    "millisecondsSinceStart": 485050,
     "label": 0
   },
   {
-    "position": 116623,
+    "millisecondsSinceStart": 485929,
     "label": 0
   },
   {
-    "position": 116833,
+    "millisecondsSinceStart": 486804,
     "label": 0
   },
   {
-    "position": 117037,
+    "millisecondsSinceStart": 487654,
     "label": 0
   },
   {
-    "position": 117247,
+    "millisecondsSinceStart": 488529,
     "label": 0
   },
   {
-    "position": 117461,
+    "millisecondsSinceStart": 489420,
     "label": 0
   },
   {
-    "position": 117677,
+    "millisecondsSinceStart": 490320,
     "label": 0
   },
   {
-    "position": 117900,
+    "millisecondsSinceStart": 491250,
     "label": 0
   },
   {
-    "position": 118121,
+    "millisecondsSinceStart": 492170,
     "label": 0
   },
   {
-    "position": 118345,
+    "millisecondsSinceStart": 493104,
     "label": 0
   },
   {
-    "position": 118574,
+    "millisecondsSinceStart": 494058,
     "label": 0
   },
   {
-    "position": 118795,
+    "millisecondsSinceStart": 494979,
     "label": 0
   },
   {
-    "position": 119020,
+    "millisecondsSinceStart": 495916,
     "label": 0
   },
   {
-    "position": 119247,
+    "millisecondsSinceStart": 496862,
     "label": 0
   },
   {
-    "position": 119453,
+    "millisecondsSinceStart": 497720,
     "label": 1
   },
   {
-    "position": 119684,
+    "millisecondsSinceStart": 498683,
     "label": 0
   },
   {
-    "position": 119912,
+    "millisecondsSinceStart": 499633,
     "label": 0
   },
   {
-    "position": 120121,
+    "millisecondsSinceStart": 500504,
     "label": 0
   },
   {
-    "position": 120353,
+    "millisecondsSinceStart": 501470,
     "label": 0
   },
   {
-    "position": 120582,
+    "millisecondsSinceStart": 502425,
     "label": 0
   },
   {
-    "position": 120805,
+    "millisecondsSinceStart": 503354,
     "label": 0
   },
   {
-    "position": 121041,
+    "millisecondsSinceStart": 504337,
     "label": 0
   },
   {
-    "position": 121278,
+    "millisecondsSinceStart": 505325,
     "label": 0
   },
   {
-    "position": 121493,
+    "millisecondsSinceStart": 506220,
     "label": 0
   },
   {
-    "position": 121737,
+    "millisecondsSinceStart": 507237,
     "label": 0
   },
   {
-    "position": 121957,
+    "millisecondsSinceStart": 508154,
     "label": 0
   },
   {
-    "position": 122187,
+    "millisecondsSinceStart": 509112,
     "label": 0
   },
   {
-    "position": 122411,
+    "millisecondsSinceStart": 510045,
     "label": 0
   },
   {
-    "position": 122637,
+    "millisecondsSinceStart": 510987,
     "label": 0
   },
   {
-    "position": 122850,
+    "millisecondsSinceStart": 511875,
     "label": 1
   },
   {
-    "position": 123073,
+    "millisecondsSinceStart": 512804,
     "label": 0
   },
   {
-    "position": 123301,
+    "millisecondsSinceStart": 513754,
     "label": 0
   },
   {
-    "position": 123518,
+    "millisecondsSinceStart": 514658,
     "label": 0
   },
   {
-    "position": 123749,
+    "millisecondsSinceStart": 515620,
     "label": 0
   },
   {
-    "position": 123983,
+    "millisecondsSinceStart": 516595,
     "label": 0
   },
   {
-    "position": 124205,
+    "millisecondsSinceStart": 517520,
     "label": 0
   },
   {
-    "position": 124437,
+    "millisecondsSinceStart": 518487,
     "label": 0
   },
   {
-    "position": 124668,
+    "millisecondsSinceStart": 519450,
     "label": 0
   },
   {
-    "position": 124883,
+    "millisecondsSinceStart": 520345,
     "label": 0
   },
   {
-    "position": 125105,
+    "millisecondsSinceStart": 521270,
     "label": 0
   },
   {
-    "position": 125326,
+    "millisecondsSinceStart": 522191,
     "label": 0
   },
   {
-    "position": 125535,
+    "millisecondsSinceStart": 523062,
     "label": 0
   },
   {
-    "position": 125751,
+    "millisecondsSinceStart": 523962,
     "label": 0
   },
   {
-    "position": 125977,
+    "millisecondsSinceStart": 524904,
     "label": 0
   },
   {
-    "position": 126201,
+    "millisecondsSinceStart": 525837,
     "label": 0
   },
   {
-    "position": 126436,
+    "millisecondsSinceStart": 526816,
     "label": 0
   },
   {
-    "position": 126660,
+    "millisecondsSinceStart": 527750,
     "label": 0
   },
   {
-    "position": 126898,
+    "millisecondsSinceStart": 528741,
     "label": 0
   },
   {
-    "position": 127120,
+    "millisecondsSinceStart": 529666,
     "label": 0
   },
   {
-    "position": 127345,
+    "millisecondsSinceStart": 530604,
     "label": 0
   },
   {
-    "position": 127588,
+    "millisecondsSinceStart": 531616,
     "label": 0
   },
   {
-    "position": 127808,
+    "millisecondsSinceStart": 532533,
     "label": 0
   },
   {
-    "position": 128030,
+    "millisecondsSinceStart": 533458,
     "label": 0
   },
   {
-    "position": 128266,
+    "millisecondsSinceStart": 534441,
     "label": 0
   },
   {
-    "position": 128482,
+    "millisecondsSinceStart": 535341,
     "label": 0
   },
   {
-    "position": 128699,
+    "millisecondsSinceStart": 536245,
     "label": 0
   },
   {
-    "position": 128925,
+    "millisecondsSinceStart": 537187,
     "label": 0
   },
   {
-    "position": 129145,
+    "millisecondsSinceStart": 538104,
     "label": 0
   },
   {
-    "position": 129355,
+    "millisecondsSinceStart": 538979,
     "label": 0
   },
   {
-    "position": 129569,
+    "millisecondsSinceStart": 539870,
     "label": 0
   },
   {
-    "position": 129785,
+    "millisecondsSinceStart": 540770,
     "label": 0
   },
   {
-    "position": 129997,
+    "millisecondsSinceStart": 541654,
     "label": 0
   },
   {
-    "position": 130220,
+    "millisecondsSinceStart": 542583,
     "label": 0
   },
   {
-    "position": 130448,
+    "millisecondsSinceStart": 543533,
     "label": 0
   },
   {
-    "position": 130660,
+    "millisecondsSinceStart": 544416,
     "label": 0
   },
   {
-    "position": 130885,
+    "millisecondsSinceStart": 545354,
     "label": 0
   },
   {
-    "position": 131110,
+    "millisecondsSinceStart": 546291,
     "label": 0
   },
   {
-    "position": 131321,
+    "millisecondsSinceStart": 547170,
     "label": 0
   },
   {
-    "position": 131548,
+    "millisecondsSinceStart": 548116,
     "label": 0
   },
   {
-    "position": 131776,
+    "millisecondsSinceStart": 549066,
     "label": 0
   },
   {
-    "position": 131989,
+    "millisecondsSinceStart": 549954,
     "label": 0
   },
   {
-    "position": 132217,
+    "millisecondsSinceStart": 550904,
     "label": 0
   },
   {
-    "position": 132444,
+    "millisecondsSinceStart": 551850,
     "label": 0
   },
   {
-    "position": 132655,
+    "millisecondsSinceStart": 552729,
     "label": 0
   },
   {
-    "position": 132884,
+    "millisecondsSinceStart": 553683,
     "label": 0
   },
   {
-    "position": 133112,
+    "millisecondsSinceStart": 554633,
     "label": 0
   },
   {
-    "position": 133325,
+    "millisecondsSinceStart": 555520,
     "label": 0
   },
   {
-    "position": 133561,
+    "millisecondsSinceStart": 556504,
     "label": 0
   },
   {
-    "position": 133778,
+    "millisecondsSinceStart": 557408,
     "label": 0
   },
   {
-    "position": 134012,
+    "millisecondsSinceStart": 558383,
     "label": 0
   },
   {
-    "position": 134245,
+    "millisecondsSinceStart": 559354,
     "label": 0
   },
   {
-    "position": 134478,
+    "millisecondsSinceStart": 560325,
     "label": 0
   },
   {
-    "position": 134690,
+    "millisecondsSinceStart": 561208,
     "label": 0
   },
   {
-    "position": 134932,
+    "millisecondsSinceStart": 562216,
     "label": 0
   },
   {
-    "position": 135149,
+    "millisecondsSinceStart": 563120,
     "label": 0
   },
   {
-    "position": 135378,
+    "millisecondsSinceStart": 564075,
     "label": 0
   },
   {
-    "position": 135609,
+    "millisecondsSinceStart": 565037,
     "label": 0
   },
   {
-    "position": 135822,
+    "millisecondsSinceStart": 565925,
     "label": 0
   },
   {
-    "position": 136053,
+    "millisecondsSinceStart": 566887,
     "label": 0
   },
   {
-    "position": 136285,
+    "millisecondsSinceStart": 567854,
     "label": 0
   },
   {
-    "position": 136502,
+    "millisecondsSinceStart": 568758,
     "label": 0
   },
   {
-    "position": 136735,
+    "millisecondsSinceStart": 569729,
     "label": 0
   }
 ]
